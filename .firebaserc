@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "bento-starter",
+    "staging": "bento-c9b09"
+  }
+}
