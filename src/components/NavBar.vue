@@ -3,7 +3,7 @@
     <router-link to="/home">
       <img alt="logo-bento" class="logo" src="@/assets/img/bento-starter.svg">
       <span class="site-name">
-        ADL
+        Bento.
         <span class="can-hide">Starter</span>
       </span>
     </router-link>
