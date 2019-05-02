@@ -8,6 +8,7 @@ module.exports = {
     'airbnb-base',
     'eslint:recommended',
     'plugin:vue/recommended',
+    'prettier/vue',
     '@vue/prettier'
   ],
   rules: {
